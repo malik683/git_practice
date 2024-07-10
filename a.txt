@@ -1,0 +1,1 @@
+hello dear, you have opened file named 'a'
