@@ -1,0 +1,1 @@
+hi, this is best example to let teresol family know about fetch and merge command along with pull and push commands.
